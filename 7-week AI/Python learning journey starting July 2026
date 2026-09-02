@@ -621,6 +621,7 @@ Answer:
 20260825
 ■ 実装（Vibe Coding）
   プロダクト：AI Intelligence Digest / Payment Analytics Tool
+  今日の作業：
 	今日のダイジェスト確認
 	ファイル更新自動化の安定稼働確認
   実装した機能：
@@ -651,6 +652,7 @@ Answer:
 20260826
 ■ 実装（Vibe Coding）
   プロダクト：AI Intelligence Digest / Payment Analytics Tool
+  今日の作業：
 	今日のダイジェスト確認
 	ファイル更新自動化の安定稼働確認
   実装した機能：
@@ -676,6 +678,7 @@ Answer:
 20260827
 ■ 実装（Vibe Coding）
   プロダクト：AI Intelligence Digest / Payment Analytics Tool
+  今日の作業：
 	今日のダイジェスト確認
 	ファイル更新自動化の安定稼働確認
   実装した機能：
@@ -701,6 +704,7 @@ Answer:
 20260828
 ■ 実装（Vibe Coding）
   プロダクト：AI Intelligence Digest / Payment Analytics Tool
+  今日の作業：
 	今日のダイジェスト確認
 	ファイル更新自動化の安定稼働確認
   実装した機能：
@@ -726,6 +730,7 @@ Answer:
 20260829
 ■ 実装（Vibe Coding）
   プロダクト：AI Intelligence Digest / Payment Analytics Tool
+  今日の作業：
 	今日のダイジェスト確認
 	ファイル更新自動化の安定稼働確認
   実装した機能：
@@ -751,6 +756,7 @@ Answer:
 20260830
 ■ 実装（Vibe Coding）
   プロダクト：AI Intelligence Digest / Payment Analytics Tool
+  今日の作業：
 	今日のダイジェスト確認
 	ファイル更新自動化の安定稼働確認
   実装した機能：
@@ -770,15 +776,22 @@ Answer:
   面接での使いどころ：
 
 ■ 明日の予定
-  実装：Payment Analytics Toolではなく、エージェント使うとか、アプリやAPIで何ができるかといった方向性で拡張するのも一案。
+  実装：(検討中)Payment Analytics Toolではなく、エージェント使うとか、アプリやAPIで何ができるかといった方向性で拡張するのも一案。
   学習：
 
 20260831
 ■ 実装（Vibe Coding）
   プロダクト：AI Intelligence Digest / Payment Analytics Tool
   今日の作業：
+	今日のダイジェスト確認
+	ファイル更新自動化の安定稼働確認
   実装した機能：
-  詰まった点：
+	github完了
+		Github: https://github.com/tdsskmt/pull-based-ai-intel-digest
+		Claude chat(壁打ちの記録)：https://claude.ai/chat/2dfb9a06-8876-4be5-8b4c-71970aa7df4b
+　詰まった点：
+	githubの各項目について、読みやすく記載することが難しかった
+	今回はImageを添付したが、時間があればGIFを取り入れるなど工夫できそう
 
 ■ 学習（トリガー型：実装で必要になった技術）
   今日の学習：
@@ -800,13 +813,14 @@ Answer:
   面接での使いどころ：
 
 ■ 明日の予定
-  実装：
+  実装：実装の方向性は要検討：拡張か、新テーマか
   学習：
 
-20260901
+20260901：Fintech, Blockchain学習に注力
 ■ 実装（Vibe Coding）
   プロダクト：AI Intelligence Digest / Payment Analytics Tool
   今日の作業：
+	今日のダイジェスト確認
   実装した機能：
   詰まった点：
 
@@ -817,7 +831,6 @@ Answer:
 
 ■ 学習（体系型：Karp/AI業界動向/API調査）
   読書・調査：
-	technological republic: XXX/308ページ
 	Digestの面白かったニュース：
   学んだこと：
   面接での使いどころ：
@@ -826,10 +839,11 @@ Answer:
   実装：
   学習：
 
-20260902
+20260902：Fintech, Blockchain学習に注力
 ■ 実装（Vibe Coding）
   プロダクト：AI Intelligence Digest / Payment Analytics Tool
   今日の作業：
+	今日のダイジェスト確認
   実装した機能：
   詰まった点：
 
@@ -840,10 +854,15 @@ Answer:
 
 ■ 学習（体系型：Karp/AI業界動向/API調査）
   読書・調査：
-	technological republic: XXX/308ページ
 	Digestの面白かったニュース：
+		1.米国防総省が GenAI.mil を約300万人へ開放——ChatGPT/Grok/Gemini を束ね、Claude は除外。8/27 に排除を“違法”とされた後も Anthropic は係争中（8/31）
+		2.中国 Z.ai（智譜）、上半期の API/オープン基盤売上が前年比+2736%（約27倍）・全社売上ほぼ4倍——オープンウェイトの“商用化”が数字で裏づけ（8/31）
   学んだこと：
+		1.AIは性能・コストだけではなく、政治的な外部要因の影響を強く受けることを実感。
+			データセンターやエネルギーと同様、マクロ・ミクロな政治介入が時に大きな障害になりうる。
+		2.売上が前年比+2736%というのは通常ありえない数字である。AI産業の成長が人間のコントロールを超えていることを示す一例だと考える。
   面接での使いどころ：
+		2.今後AIエージェントによる取引も指数関数的に増えると予想~放っておいたらトラブル・エラーも多数発生すると予想~だからこそSecurity for AIやBlockchainなど、逸脱を防ぐ枠組みが同時に必要だし、同分野が今後成長すると予想
 
 ■ 明日の予定
   実装：
