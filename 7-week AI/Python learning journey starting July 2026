@@ -868,9 +868,11 @@ Answer:
   実装：
   学習：
 
-20260903
+20260903~20260921: Busy with Intern and Career-related stuff
+
+20260922
 ■ 実装（Vibe Coding）
-  プロダクト：AI Intelligence Digest / Payment Analytics Tool
+  プロダクト：AI Intelligence Digest / Fintech Block-Chain Digest
   今日の作業：
   実装した機能：
   詰まった点：
@@ -882,80 +884,13 @@ Answer:
 
 ■ 学習（体系型：Karp/AI業界動向/API調査）
   読書・調査：
-	technological republic: XXX/308ページ
-	Digestの面白かったニュース：
+  Digestの面白かったニュース：
+  	1. 法務 AI の Harvey が、閉じたフロンティア API（OpenAI/Anthropic）の従量課金で粗利が約+50%→−50%まで崩壊——8月に Moonshot のオープンウェイト Kimi K3 を自社学習した「Harvey Tenet」へ主力を移し黒字回帰（Bloomberg 9/21）。Abridge・Decagon・Ramp も同じ“オープンへの転回”を追う。エンタープライズ AI の原価構造が閉→開へ動く最初の大波
   学んだこと：
+  	1. ユニットエコノミクス問題は今後色んな企業が悩まされるのではないか。そして来年にはインターネットと同じくらい低価格で普及しているかもしれない。その為にはどんな技術革新が必要か？
   面接での使いどころ：
 
 ■ 明日の予定
   実装：
   学習：
 
-20260904
-■ 実装（Vibe Coding）
-  プロダクト：AI Intelligence Digest / Payment Analytics Tool
-  今日の作業：
-  実装した機能：
-  詰まった点：
-
-■ 学習（トリガー型：実装で必要になった技術）
-  今日の学習：
-  学んだこと：
-  実装との関連：
-
-■ 学習（体系型：Karp/AI業界動向/API調査）
-  読書・調査：
-	technological republic: XXX/308ページ
-	Digestの面白かったニュース：
-  学んだこと：
-  面接での使いどころ：
-
-■ 明日の予定
-  実装：
-  学習：
-
-20260905
-■ 実装（Vibe Coding）
-  プロダクト：AI Intelligence Digest / Payment Analytics Tool
-  今日の作業：
-  実装した機能：
-  詰まった点：
-
-■ 学習（トリガー型：実装で必要になった技術）
-  今日の学習：
-  学んだこと：
-  実装との関連：
-
-■ 学習（体系型：Karp/AI業界動向/API調査）
-  読書・調査：
-	technological republic: XXX/308ページ
-	Digestの面白かったニュース：
-  学んだこと：
-  面接での使いどころ：
-
-■ 明日の予定
-  実装：
-  学習：
-
-20260906
-■ 実装（Vibe Coding）
-  プロダクト：AI Intelligence Digest / Payment Analytics Tool
-  今日の作業：
-  実装した機能：
-  詰まった点：
-
-■ 学習（トリガー型：実装で必要になった技術）
-  今日の学習：
-  学んだこと：
-  実装との関連：
-
-■ 学習（体系型：Karp/AI業界動向/API調査）
-  読書・調査：
-	technological republic: XXX/308ページ
-	Digestの面白かったニュース：
-  学んだこと：
-  面接での使いどころ：
-
-■ 明日の予定
-  実装：
-  学習：
